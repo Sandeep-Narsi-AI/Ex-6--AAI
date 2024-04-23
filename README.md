@@ -84,10 +84,12 @@ for sentence in sentences:
 ### Output
 
 #### Parts of speech
-![alt text](image.png)
+![image](https://github.com/Sandeep-Narsi-AI/Ex-6--AAI/assets/93811560/8110f7b4-8f2f-4e59-80fe-b328a23bff6d)
+
 
 #### Synonyms and Antonyms
-![alt text](image-1.png)
+![image-1](https://github.com/Sandeep-Narsi-AI/Ex-6--AAI/assets/93811560/e4a6e8cd-4b92-4d55-837b-510772b2fa4f)
+
 ### Result:
 
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
